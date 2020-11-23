@@ -1,0 +1,8 @@
+From Digital Lync to Everyone:  09:05 AM
+ Create a simple web page that for an ecommerce application that should contain,
+
+ 1. home page, login page, register page, products page , careers page 
+
+ 2. Display some products list using a table 
+
+ 3. Let user select a product, when user clicks on a product, display it on the next page.

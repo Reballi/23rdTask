@@ -1,0 +1,84 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.login{
+    margin: 2% 35% 5% 35%;
+    padding:2% 11% 7% 5%;
+    background-color: rgb(158, 240, 233);
+    border-style: solid;
+    border-radius: 5px;
+}
+body{
+    background-color: bisque;
+}
+.login_button{
+    background-color: red;
+    color: wheat;
+    margin: 18% 10% 4% -12%;
+    padding: 2% 73% 1% 83%;
+    border-radius: 8px;
+    font-weight: 600;
+}
+.hr{
+    font-size: small;
+    background-color:rgb(158, 240, 233) ;
+    position: absolute;
+    top: 46%;
+    left: 46%;
+
+}
+.register{
+
+    padding: 5% 15% 5% 15%;
+    margin: 16% 0% 0% 30%;
+}
+.marq{
+    background-color: wheat;
+}
+.menu{
+        display: inline;
+         margin-left: 1%;  
+}
+td:link {
+    color: white;
+    text-align: center;
+}
+td {
+  
+    text-align: center;
+}
+td:hover{
+    text-align: center;
+    background-color:rgb(88, 223, 247) ;
+    color:white;
+}
+th:hover{
+    background-color: yellow;
+}
+th{
+    background-color: yellowgreen;
+}
+.register {
+    background-color: whitesmoke;
+    padding: 2% 0% 3% 2%;
+    margin: 2% 25% 10% 22%;
+    border-radius: 5px;
+    border-style: solid;
+    font-weight: 600;
+}
+.register_login {
+    margin: 37% 0% 0% 0%;
+    padding: 5% 50% 5% 50%;
+    background-color: honeydew;
+    border-radius: 5px;
+}
+.nav{
+    text-decoration: none; 
+      padding: 0% 0%;
+      margin:0 0 0 10%;
+}
+.title{
+    margin:0% 0% 0% 0%;
+    display: inline;
+}
